@@ -9,10 +9,10 @@ import FilterBar from '@/components/Filterbar.vue'
     :style="{ backgroundImage: `url(${bgImage})` }"
   >
     <div class="pt-40 text-center">
-      <h1 class="text-3xl font-extrabold text-black">
-        DEFINE YOUR <span class="font-extrabold italic">SPOT</span>
+      <h1 class="text-3xl font-bold text-black font-sans ">
+        DEFINE YOUR <span class="font-bold italic">SPOT</span>
       </h1>
-      <p class="font-extrabold text-4xl text-black">DEFINE YOUR POT</p>
+      <p class="font-bold text-4xl text-black">DEFINE YOUR POT</p>
 
       <p class="text-2xl">Enhance your plants with pots from our collection—all made for the beauty of plants.</p> 
     </div>

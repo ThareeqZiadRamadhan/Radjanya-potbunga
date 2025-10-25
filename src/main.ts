@@ -6,9 +6,10 @@ import '@fontsource/poppins/500.css' // Medium
 import '@fontsource/poppins/600.css' // Semi-Bold
 import '@fontsource/poppins/700.css' // Bold
 import '@fontsource/poppins/800.css'
+import '@fontsource/poppins/900.css'
 import App from './App.vue'
-import router from './Router' // <-- 1. Impor router
-import './style.css' // <-- Pastikan ini menunjuk ke file CSS Anda
+import router from './Router' 
+import './style.css'
 
 const app = createApp(App)
 
